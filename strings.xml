@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">films</string>
+    <string name="galaxy_name">Pie</string>
+    <string-array name="Films">
+        <item>Inception</item>
+        <item>MIB</item>
+        <item>Lion King</item>
+        <item>Aladin 2019</item>
+        <item>Spyder Man</item>
+        <item>Avangers</item>
+        <item>Joker</item>
+        <item>Dark knight 2</item>
+        <item>Tomb Rider</item>
+        <item>IT 2</item>
+    </string-array>
+    <string name="button_rand">Выбрать фильм</string>
+    <string name="button_drop">Сброс</string>
+</resources>
+
